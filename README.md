@@ -6,7 +6,7 @@ vehical-detection -&amp;-alert
 # Results:
 
 # how to use
-   1. install anaconda from the official site
+   1. install anaconda from the official site [anaconda](https://www.anaconda.com/)
    2. create new env using the command `conda create --name vehicalDetection python=3.8`
    3. enter the command   `activate vehicalDetection`
    4. install requirements usin `pip install requirements.txt`
